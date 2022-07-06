@@ -1,4 +1,3 @@
 - Hi, I’m @alokpanigrahi6254
-- I’m interested in computer vision, unity development and machine learning.
-- I’m currently learning commputer vision and unity development.
+- I’m interested in computer vision and machine learning.
 - You can reach me out through email aloksss6254@gmail.com.
